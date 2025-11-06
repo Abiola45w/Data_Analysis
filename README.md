@@ -102,6 +102,6 @@ Author
 
 Joshua Ojumola
 Data Analyst | Excel | Power BI | R | SQL 
-📫 LinkedIn: [https://www.linkedin.com/in/ojumola-adedeji-758471381]
+LinkedIn: [https://www.linkedin.com/in/ojumola-adedeji-758471381]
  
-📧 Email: [joshuaojumola@gmail.com]
+ Email: [joshuaojumola@gmail.com]
