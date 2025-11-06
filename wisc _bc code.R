@@ -91,5 +91,9 @@ wbcd_test_pred = knn(train = wisc_bc_data_train, test = wisc_bc_data_test,
 CrossTable(x = wbcd_test_labels, y = wbcd_test_pred,
            prop.chisq=FALSE)
 
+# Calculate accuracy
+accuracy <- mean(wbcd_test_pred == wbcd_test_labels)
+print(paste("Model Accuracy:", round(accuracy * 100, 2), "%"))
+
 
 
